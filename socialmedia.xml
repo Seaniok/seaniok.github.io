@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialmedia>
+    <Facebook>
+        <name type="socialmedia">Facebook</name>
+        <origin isGlobal="true">United States</origin>
+        <users type="millions">3,049</users>
+    </Facebook>
+    <Youtube>
+        <name type="socialmedia">Youtube</name>
+        <origin isGlobal="true">United States</origin>
+        <users type="millions">2,491</users>
+    </Youtube>
+    <WhatsApp>
+        <name type="socialmedia">WhatsApp</name>
+        <origin isGlobal="true">United States</origin>
+        <users type="millions">2,000</users>
+    </WhatsApp>
+    <TikTok>
+        <name type="socialmedia">TikTok</name>
+        <origin isGlobal="true">China</origin>
+        <users type="millions">1,526</users>
+    </TikTok>
+</socialmedia>
