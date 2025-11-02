@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Facebook",
+        "active_users_millions": 3.049,
+        "origin": "United States"
+    },
+    {
+        "name": "WhatsApp",
+        "active_users_millions": 2.000,
+        "origin": "United States"
+    },
+    {
+        "name": "Youtube",
+        "active_users_millions": 2.491,
+        "origin": "United States"
+    },
+    {
+        "name": "TikTok",
+        "active_users_millions": 1.526,
+        "origin": "China"
+    }
+]

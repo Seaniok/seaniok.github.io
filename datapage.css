@@ -1,0 +1,13 @@
+h1 {
+    text-align: center
+}
+
+th {
+    border: solid;
+    background-color: black;
+    color: white
+}
+
+td {
+    border:solid
+}
