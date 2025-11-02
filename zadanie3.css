@@ -1,0 +1,11 @@
+title {
+text-align: center;
+}
+div {
+    height:5cm;
+}
+img {
+    height:4cm;
+    width:4cm;
+    border:5px solid black;
+}
